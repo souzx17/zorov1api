@@ -4,6 +4,16 @@
 <h3 align="center">fique avontade para fazer modificações</h3>
 <h3 align="center">Em breve mais versões.</h3>
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/souzx17/zoroapiv1.git)
+
+### `Use no seu localhost` 
+```bash
+> npm install
+> npm start
+- acesse http://localhost:5000
+```
+
 <h3 align="left">Canal:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCuPDT12LqEQy_VRIczBBy6A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="🤺𝑆𝑜𝑢𝑧𝑥¹⁷⚔️" height="30" width="40" /></a>
