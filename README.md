@@ -11,3 +11,6 @@
 
 <h3 align="left">Linguagens usada:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+![Capturar](https://user-images.githubusercontent.com/109921888/184555659-c7aa4db2-81fa-4dd3-942d-74b41e5b9757.PNG)
